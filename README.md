@@ -1,4 +1,4 @@
-Luxury
+BAFA Properties 
 ======
 
-A Responsive Template for Real Estate Business 
+A website made for a construction and real estate company based in london 
