@@ -84,12 +84,12 @@ img {
 }
 
 /* 'rem' is a Sass mixin that converts pixel values to rem values
- * Returns 2 lines of code — regular pixel values and converted rem values 
- * 
+ * Returns 2 lines of code — regular pixel values and converted rem values
+ *
  * Sample input:
- * .element { 
+ * .element {
  * @include rem('padding',10px 0 2px 5px); }
- * 
+ *
  * Sample output:
  * .element {
  *   padding: 10px 0 2px 5px;
@@ -472,7 +472,7 @@ p {
   color: #8a8a8a;
 }
 .icon-compose,.icon-task-check{
-  margin-right:5px; 
+  margin-right:5px;
 }
 
 /*..headergroup {
@@ -574,7 +574,7 @@ span.paragraph-text{
   font-weight: bold;
   text-shadow: 2px 2px #808080;
 }
-@media (min-width: 120px) and (max-width: 824px) { 
+@media (min-width: 120px) and (max-width: 824px) {
     .seconday-large-text{
       font-size: 30px !important;
   }
@@ -1200,7 +1200,7 @@ margin-left: 15px;
 }
 .size-34{
   margin-top: 10px;
- font-size: 28px !important; 
+ font-size: 28px !important;
 }
 .icons-menu-bottom{
   margin-bottom: 5px;
@@ -2263,7 +2263,7 @@ margin-left: 15px;
   max-width: 100%;
 }
  span.text-contact{
-   padding-bottom: 10px; 
+   padding-bottom: 10px;
   }
 
 .section-intro .content h1 {
@@ -2698,7 +2698,7 @@ margin-left: 15px;
   }
   .pricing-slide-text{
     font-size:22px;
-    line-height:23px; 
+    line-height:23px;
   }
 .pricing-part .pricing-menu {
   display: none;
@@ -2945,7 +2945,7 @@ section#tips-part {
 .events-part .events-list li .event-image img {
   width: 100%;
   height: auto;
-  border-radius: 50%;
+  border-radius: 20%;
 }
 .events-part .events-list li:last-child {
   margin-bottom: 0;
@@ -3062,7 +3062,7 @@ section#tips-part {
 .section-team .team-members li .team-member-image img {
   width: 100%;
   height: 100%;
-  border-radius: 50%;
+  border-radius: 30%;
 }
 .section-team .team-members li .team-member-title {
   margin: 0.35em 0 0.5em;
@@ -3157,7 +3157,7 @@ section#tips-part {
     max-height: 200px;
     max-width: 100%;
   }
-  
+
 /* Generic Button Styles */
 
   .button{
